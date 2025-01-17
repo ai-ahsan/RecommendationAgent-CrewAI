@@ -1,0 +1,322 @@
+[
+    {
+        "id": "C001",
+        "name": "Healthy Holstein Cow",
+        "quantity": 15,
+        "price": 1500,
+        "type": "dairy",
+        "description": "A Holstein cow known for high milk production, suitable for dairy farming. Each cow comes with verified health and vaccination records."
+    },
+    {
+        "id": "C002",
+        "name": "Jersey Cow (Milk Production)",
+        "quantity": 18,
+        "price": 1800,
+        "type": "dairy",
+        "description": "A Jersey cow known for its rich and creamy milk. Ideal for small dairy farms, with complete vaccination records included."
+    },
+    {
+        "id": "C003",
+        "name": "Angus Cow (Beef Production)",
+        "quantity": 12,
+        "price": 2000,
+        "type": "beef",
+        "description": "A high-quality Angus cow raised for beef production. Comes with comprehensive health certifications and feeding recommendations."
+    },
+    {
+        "id": "C004",
+        "name": "Brahman Cow (Tropical Adaptation)",
+        "quantity": 10,
+        "price": 1700,
+        "type": "livestock",
+        "description": "A resilient Brahman cow well-suited for tropical climates. Vaccinated and acclimated to high temperatures and humidity."
+    },
+    {
+        "id": "C005",
+        "name": "Simmental Cow (Dual Purpose)",
+        "quantity": 8,
+        "price": 1900,
+        "type": "dual-purpose",
+        "description": "A Simmental cow ideal for both milk and meat production. Comes with health certifications and guidance for optimal care."
+    },
+    {
+        "id": "C006",
+        "name": "Guernsey Cow (High Butterfat Milk)",
+        "quantity": 14,
+        "price": 1600,
+        "type": "dairy",
+        "description": "A Guernsey cow producing milk rich in beta-carotene and butterfat. Great for dairy farms focused on premium milk quality."
+    },
+    {
+        "id": "C007",
+        "name": "Charolais Cow (Beef Production)",
+        "quantity": 9,
+        "price": 2200,
+        "type": "beef",
+        "description": "A Charolais cow bred for superior beef yield. Comes with detailed health and feed recommendations for maximum production."
+    },
+    {
+        "id": "C008",
+        "name": "Brown Swiss Cow",
+        "quantity": 11,
+        "price": 1800,
+        "type": "dairy",
+        "description": "A hardy Brown Swiss cow known for consistent milk production and a calm temperament. Includes health certifications and care instructions."
+    },
+    {
+        "id": "C009",
+        "name": "Dexter Cow (Small-Scale Farming)",
+        "quantity": 13,
+        "price": 1300,
+        "type": "dual-purpose",
+        "description": "A compact Dexter cow ideal for small-scale farms, providing both milk and beef. Comes with vaccination records and care tips."
+    },
+    {
+        "id": "C010",
+        "name": "Hereford Cow (Beef Production)",
+        "quantity": 16,
+        "price": 2100,
+        "type": "beef",
+        "description": "A Hereford cow prized for high-quality beef. Well-suited for pasture-based farming, with full vaccination and health records."
+    },
+    {
+        "id": "C011",
+        "name": "Highland Cow (Cold Climate Adaptation)",
+        "quantity": 7,
+        "price": 2300,
+        "type": "livestock",
+        "description": "A Highland cow known for its long hair and adaptability to cold climates. Excellent for beef production with minimal care."
+    },
+    {
+        "id": "C012",
+        "name": "Ayrshire Cow (Milk Production)",
+        "quantity": 14,
+        "price": 1700,
+        "type": "dairy",
+        "description": "An Ayrshire cow producing high quantities of milk, suitable for mid-sized dairy operations. Vaccinated and well-cared-for."
+    },
+    {
+        "id": "C013",
+        "name": "Shorthorn Cow (Dual Purpose)",
+        "quantity": 10,
+        "price": 1900,
+        "type": "dual-purpose",
+        "description": "A versatile Shorthorn cow suitable for both milk and beef. Comes with comprehensive care guidelines and vaccination records."
+    },
+    {
+        "id": "C014",
+        "name": "Brangus Cow (Crossbreed Efficiency)",
+        "quantity": 9,
+        "price": 1850,
+        "type": "beef",
+        "description": "A Brangus cow combining the best traits of Brahman and Angus breeds. Ideal for beef production in warm climates."
+    },
+    {
+        "id": "C015",
+        "name": "Galloway Cow (Beef and Hide)",
+        "quantity": 8,
+        "price": 2000,
+        "type": "beef",
+        "description": "A Galloway cow prized for lean beef and high-quality hides. Comes with documentation for optimal farming practices."
+    },
+    {
+        "id": "C016",
+        "name": "Holstein Heifer (Young Dairy Cow)",
+        "quantity": 20,
+        "price": 1200,
+        "type": "dairy",
+        "description": "A young Holstein heifer ready for integration into a dairy farm. Certified for health and early milk production potential."
+    },
+    {
+        "id": "C017",
+        "name": "Texas Longhorn Cow",
+        "quantity": 5,
+        "price": 2500,
+        "type": "livestock",
+        "description": "A Texas Longhorn cow known for its resilience and unique horns. Excellent for ranch settings or beef production."
+    },
+    {
+        "id": "C018",
+        "name": "Milking Shorthorn Cow",
+        "quantity": 12,
+        "price": 1800,
+        "type": "dairy",
+        "description": "A Milking Shorthorn cow providing high-quality milk. Ideal for dual-purpose farms seeking milk and occasional beef."
+    },
+    {
+        "id": "C019",
+        "name": "Gelbvieh Cow (Meat and Milk)",
+        "quantity": 10,
+        "price": 2000,
+        "type": "dual-purpose",
+        "description": "A Gelbvieh cow suitable for both meat and milk production. Known for efficient growth and feed conversion."
+    },
+    {
+        "id": "C020",
+        "name": "Organic Grass-Fed Cow",
+        "quantity": 10,
+        "price": 2500,
+        "type": "organic",
+        "description": "A grass-fed cow raised under organic standards. Perfect for premium beef production or eco-conscious dairy farming."
+    },
+    {
+        "id": "C021",
+        "name": "Murray Grey Cow",
+        "quantity": 6,
+        "price": 1950,
+        "type": "beef",
+        "description": "A Murray Grey cow known for efficient beef production and ease of management. Great for small to medium-sized farms."
+    },
+    {
+        "id": "C022",
+        "name": "Fleckvieh Cow (European Breed)",
+        "quantity": 8,
+        "price": 2000,
+        "type": "dual-purpose",
+        "description": "A Fleckvieh cow from Europe, ideal for milk and meat. Comes with a detailed pedigree and health certifications."
+    },
+    {
+        "id": "C023",
+        "name": "Belgian Blue Cow",
+        "quantity": 9,
+        "price": 2200,
+        "type": "beef",
+        "description": "A Belgian Blue cow bred for its exceptional muscle growth. Excellent for high-yield beef production."
+    },
+    {
+        "id": "C024",
+        "name": "Norwegian Red Cow",
+        "quantity": 7,
+        "price": 1900,
+        "type": "dairy",
+        "description": "A Norwegian Red cow providing consistent milk yield with excellent udder health. Well-suited for colder climates."
+    },
+    {
+        "id": "C025",
+        "name": "Miniature Zebu Cow",
+        "quantity": 10,
+        "price": 1500,
+        "type": "livestock",
+        "description": "A small Zebu cow ideal for hobby farms or small-scale agriculture. Known for hardiness and low maintenance."
+    },
+    {
+        "id": "C026",
+        "name": "Friesian Cow",
+        "quantity": 11,
+        "price": 1750,
+        "type": "dairy",
+        "description": "A Friesian cow producing large quantities of milk. Vaccinated and certified for excellent health."
+    },
+    {
+        "id": "C027",
+        "name": "Crossbred Dairy Cow",
+        "quantity": 13,
+        "price": 1800,
+        "type": "dairy",
+        "description": "A crossbred dairy cow optimized for high yield and adaptability. Suitable for various farming environments."
+    },
+    {
+        "id": "C028",
+        "name": "Purebred Angus Steer",
+        "quantity": 9,
+        "price": 2000,
+        "type": "beef",
+        "description": "A purebred Angus steer ready for beef production. Comes with lineage documentation and health records."
+    },
+    {
+        "id": "C029",
+        "name": "Organic Dairy Cow",
+        "quantity": 12,
+        "price": 2500,
+        "type": "organic",
+        "description": "A dairy cow raised under organic standards. Provides milk free from synthetic hormones and antibiotics."
+    },
+    {
+        "id": "C030",
+        "name": "Polled Hereford Cow",
+        "quantity": 8,
+        "price": 2100,
+        "type": "beef",
+        "description": "A Polled Hereford cow known for high-quality beef and ease of handling. Perfect for small to mid-sized farms."
+    },
+    {
+        "id": "C031",
+        "name": "Red Poll Cow",
+        "quantity": 14,
+        "price": 1950,
+        "type": "dual-purpose",
+        "description": "A Red Poll cow ideal for milk and meat production. Known for calm temperament and adaptability."
+    },
+    {
+        "id": "C032",
+        "name": "Wagyu Cow",
+        "quantity": 6,
+        "price": 5000,
+        "type": "beef",
+        "description": "A premium Wagyu cow for producing marbled beef of the highest quality. Comes with complete lineage and care instructions."
+    },
+    {
+        "id": "C033",
+        "name": "Droughtmaster Cow",
+        "quantity": 10,
+        "price": 1850,
+        "type": "beef",
+        "description": "A Droughtmaster cow resilient to dry conditions, ideal for beef production in arid regions. Fully vaccinated and certified healthy."
+    },
+    {
+        "id": "C034",
+        "name": "Holstein Steer",
+        "quantity": 8,
+        "price": 1400,
+        "type": "beef",
+        "description": "A Holstein steer suitable for beef production. Excellent feed conversion and vaccinated for health."
+    },
+    {
+        "id": "C035",
+        "name": "Piedmontese Cow",
+        "quantity": 7,
+        "price": 2500,
+        "type": "beef",
+        "description": "A Piedmontese cow producing tender, low-fat beef. Comes with documentation for optimal care and feeding."
+    },
+    {
+        "id": "C036",
+        "name": "Belted Galloway Cow",
+        "quantity": 9,
+        "price": 2100,
+        "type": "dual-purpose",
+        "description": "A Belted Galloway cow prized for both beef and milk. Unique appearance with a distinctive white belt."
+    },
+    {
+        "id": "C037",
+        "name": "Kangayam Cow",
+        "quantity": 5,
+        "price": 1700,
+        "type": "livestock",
+        "description": "A Kangayam cow from India, excellent for draught work and milk. Vaccinated and adapted for hot climates."
+    },
+    {
+        "id": "C038",
+        "name": "Native Indian Gir Cow",
+        "quantity": 10,
+        "price": 2000,
+        "type": "dairy",
+        "description": "A Gir cow known for A2 milk production. Comes with pedigree details and complete health records."
+    },
+    {
+        "id": "C039",
+        "name": "Nellore Cow",
+        "quantity": 8,
+        "price": 1800,
+        "type": "livestock",
+        "description": "A Nellore cow known for resilience and beef production. Excellent for tropical environments with verified health certifications."
+    },
+    {
+        "id": "C040",
+        "name": "Organic Simmental Cow",
+        "quantity": 9,
+        "price": 2300,
+        "type": "organic",
+        "description": "An organically raised Simmental cow for dual-purpose farming. Certified for milk and beef production."
+    }
+]
