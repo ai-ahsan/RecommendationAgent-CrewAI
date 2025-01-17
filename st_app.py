@@ -3,7 +3,7 @@
 import streamlit as st
 from crewai import Crew, Process
 from agents import query_responder, blog_writer
-from tasks import search_json_faq, search_json_inventory, write_task
+from tasks import search_json_faq, search_json_inventory, search_tavily,write_task
 from dotenv import load_dotenv
 import os
 
@@ -13,7 +13,7 @@ load_dotenv()
 # Forming the tech-focused crew with enhanced configurations
 crew = Crew(
     agents=[query_responder, blog_writer],
-    tasks=[search_json_inventory, search_json_faq, write_task],
+    tasks=[search_json_inventory, search_json_faq, search_tavily, write_task],
     process=Process.sequential,  # Optional: Sequential task execution is default
     memory=True,
     cache=True,
